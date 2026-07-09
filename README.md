@@ -39,7 +39,7 @@ Urban Flow AI is an intelligent traffic management system designed to improve ur
 Developed an AI-powered intelligent traffic management system capable of predicting traffic congestion, optimizing traffic flow, detecting incidents, and recommending congestion-aware routes. The proposed solution enhances urban transportation efficiency, reduces travel time, and supports the development of smart city infrastructure through real-time monitoring and intelligent decision-making.
 
 ##  Research Publication
-This work was presented at the **Seventh International Conference on Advances in Electrical and Computer Technologies (ICAECT 2026).**
+This work was presented at the **International Conference on Intelligent Computing and Sustainable Technologies(ICST2026).**
 
 ##  Author
 - C. Preethika
